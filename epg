@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.8 -- Jan van Straaten" site="mi.tv2)">&gt;
 <channels>
 <channel update="i" site="mi.tv2" site_id="ar###24-7-canal-de-noticias" xmltv_id="24/7 Canal de Noticias">24/7 Canal de Noticias</channel>
